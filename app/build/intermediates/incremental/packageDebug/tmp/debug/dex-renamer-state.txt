@@ -1,0 +1,4 @@
+#Fri Oct 09 11:26:18 ICT 2020
+base.0=E\:\\Unila\\KULIAH\\Sem5\\Android\\praktikum1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
